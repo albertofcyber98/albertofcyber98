@@ -2,6 +2,7 @@
 
 # 👋 Hi, I'm Albert!
 👩🏻‍💻 Software Engineer at MGG Software<br/>
+👩🏻‍🎓 Studied at Dipa Makassar University, Indonesia
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=albertofcyber98&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
