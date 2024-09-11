@@ -9,15 +9,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertofcyber98&layout=compact&theme=vue-dark)
 
 ## 💻 Tech Stack
-🚀 HTML5 | CSS | SASS | Bootstrap | Tailwind
-🚀 Javascript | TypeScript | React JS | Vue JS | Quasar JS | Next JS | Express JS | Node JS | Cordova JS
-🚀 Redux | Vuex | Rest APIs
-🚀 PHP | Laravel
-🚀 Database | MySQL | MongoDB | PostgreSQL
-🚀 Leaflet Maps
-🚀 Git | GitHub | GitLab | Bitbucket | SourceTree
-🚀 Laragon | Xampp | PgAdmin | Filezilla
-🚀 SonarQube
-🚀 Slack | Jira | Trello
-🚀 UI | Figma
-🚀 Netlify | Heroku
+🚀 HTML5 | CSS | SASS | Bootstrap | Tailwind <br>
+🚀 Javascript | TypeScript | React JS | Vue JS | Quasar JS | Next JS | Express JS | Node JS | Cordova JS <br>
+🚀 Redux | Vuex | Rest APIs<br>
+🚀 PHP | Laravel<br>
+🚀 Database | MySQL | MongoDB | PostgreSQL<br>
+🚀 Leaflet Maps<br>
+🚀 Git | GitHub | GitLab | Bitbucket | SourceTree<br>
+🚀 Laragon | Xampp | PgAdmin | Filezilla<br>
+🚀 SonarQube<br>
+🚀 Slack | Jira | Trello<br>
+🚀 UI | Figma<br>
+🚀 Netlify | Heroku<br>
