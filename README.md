@@ -5,7 +5,7 @@
 👩🏻‍🎓 Studied at Dipa Makassar University, Indonesia
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Yohanes Albert's Github Stats](https://github-readme-stats.vercel.app/api?username=albertofcyber98&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![Yohanes Albert's Github Stats](https://github-readme-stats.vercel.app/api?username=albertofcyber98&theme=vue-dark&hide_border=false&count_private=true&show_icons=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertofcyber98&layout=compact&theme=vue-dark)
 
 # 💻 Tech Stack
