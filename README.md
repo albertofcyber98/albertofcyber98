@@ -12,11 +12,11 @@
 - Software Engineer | MGG Software Ltd | Fulltime | Sep 2022 - Present
 - Fullstack Web Developer | DisplayHero GmbH | Parttime | Mar 2024 - Present
 - Frontend Developer | ClubDanmark | Parttime | Sep 2023 - Jun 2024
-- Fullstack Web Developer | Onesix | Freelance | Okt 2023 - Nov 2023
-- Programming Tutor | Self employed | Freelance | Jan 2023 - Agu 2023
+- Fullstack Web Developer | Onesix | Freelance | Oct 2023 - Nov 2023
+- Programming Tutor | Self employed | Freelance | Jan 2023 - Aug 2023
 - Frontend Web Developer | CodeAtHome | Parttime | Jul 2022 - Jun 2023
 - Frontend Web Developer | Self employed | Freelance | Feb 2020 - Sep 2022
-- Social Media Designer | CV Lumbung Kaos | Fulltime | Mei 2021 - Agu 2021
+- Social Media Designer | CV Lumbung Kaos | Fulltime | Mei 2021 - Aug 2021
 
 ## 💻 Tech Stack
 🚀 HTML5 | CSS | SASS | Bootstrap | Tailwind <br>
