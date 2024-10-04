@@ -15,7 +15,7 @@
 - Fullstack Web Developer | 🏢 Onesix | Freelance | ⌛️ Oct 2023 - Nov 2023
 - Programming Tutor | Self employed | Freelance | ⌛️ Jan 2023 - Aug 2023
 - Frontend Web Developer | 🏢 CodeAtHome | Parttime | ⌛️ Jul 2022 - Jun 2023
-- Frontend Web Developer | Self employed | Freelance | ⌛️ Feb 2020 - Sep 2022
+- Web Developer | Self employed | Freelance | ⌛️ Feb 2020 - Sep 2022
 - Social Media Designer | 🏢 CV Lumbung Kaos | Fulltime | ⌛️ Mei 2021 - Aug 2021
 
 ## 💻 Tech Stack
