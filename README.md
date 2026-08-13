@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Albert!
 
-🧑🏽‍💻 Full-Time Software Engineer at **MGG Software**
+🧑🏽‍💻 Full-Time Fullstack Developer at **Huabao Indonesia**
 👨🏼‍🎓 Graduate of **Dipa Makassar University, Indonesia**
 
 ---
