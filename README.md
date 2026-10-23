@@ -15,9 +15,10 @@ Focused on **fullstack development**, performance optimization, and clean UI/UX.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertofcyber98&theme=vue-dark&hide_border=false&count_private=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertofcyber98&layout=compact&theme=vue-dark" />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
+
 
 ---
 
