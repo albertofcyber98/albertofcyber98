@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Albert!
+## 👋 Hi Guys
 
 🧑🏽‍💻 Full-Time Fullstack Developer at **Huabao Indonesia**
 👨🏼‍🎓 Graduate of **Dipa Makassar University, Indonesia**
@@ -24,7 +24,7 @@ Focused on **fullstack development**, performance optimization, and clean UI/UX.
 
 ## 💼 Experience
 
-* **Software Engineer** — MGG Software Ltd *(Fulltime | Sep 2022 - Present)*
+* **Software Engineer** — MGG Software Ltd *(Fulltime | Sep 2022 - Aug 2025)*
 * **Fullstack Web Developer** — DisplayHero GmbH *(Part-time | Mar 2024 - Present)*
 * **Frontend Developer** — ClubDanmark *(Part-time | Sep 2023 - Jun 2024)*
 * **Fullstack Web Developer** — Onesix *(Freelance | Oct 2023 - Nov 2023)*
