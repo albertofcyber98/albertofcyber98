@@ -1,10 +1,4 @@
 ## 👋 Hi Guys
-
-🧑🏽‍💻 Full-Time Fullstack Developer at **Huabao Indonesia**
-👨🏼‍🎓 Graduate of **Dipa Makassar University, Indonesia**
-
----
-
 ## 🚀 About Me
 
 Passionate Software Engineer with 5+ years of experience building scalable web applications.
